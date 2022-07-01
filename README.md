@@ -1,4 +1,4 @@
-# PROVA ![image](https://user-images.githubusercontent.com/44379984/176934342-9b8239e7-dfa0-4cf7-9d97-abeacdfef19f.png)
+# PROVA 📕
 
 
 ## Prova feita na liguagem python
